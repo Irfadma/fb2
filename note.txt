@@ -1,0 +1,12 @@
+inheritance
+1.single level
+2.multilevel
+3.multiple
+4.maltilevel
+5.heirarchical
+6.hybrif
+
+
+polymorphisnm
+1.method over loading
+2.

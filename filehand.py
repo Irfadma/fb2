@@ -1,0 +1,6 @@
+# f=open("text.text","r")
+# # print(a.read())
+# # print(f.readline())
+# print(f.readlines())
+f=open("text.text","w")
+f.write("haii")

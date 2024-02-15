@@ -1,0 +1,29 @@
+/* #id1{
+    color:green
+} */
+
+/* div p{
+   background-color:aqua
+}
+div span{
+    background-color: blue
+} */
+/* 
+a:link{
+    color:red
+}
+a:visited{
+    color:green
+}
+a:hover{
+    color:yellow
+}
+a:active{
+    color:blue
+} */
+#id1{
+    margin-left: 3px;
+}
+#id2{
+    margin-left: 350px
+}
